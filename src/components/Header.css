@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(36, 74, 228);
+    height: 110px;
+}
+.name{
+    margin-top: -90px;
+    margin-left: 130px;
+    color: white;
+}
+.post{
+    margin-left: 130px;
+    color: whitesmoke;
+}
+.btn{
+    margin-bottom: 90px;
+    top: 30px;
+    margin-left: 1100px;
+    position: absolute;
+    border: 3px solid white;
+    border-radius: 8px;
+    background-color: rgb(36, 74, 228);;
+    color: whitesmoke;
+    width: 95px;
+    text-align: center;
+}
